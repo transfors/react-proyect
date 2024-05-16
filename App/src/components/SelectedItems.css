@@ -1,0 +1,24 @@
+.select {
+  overflow-x: auto;
+  white-space: nowrap;
+  text-align: center; 
+}
+
+.item {
+  display: inline-block;
+  vertical-align: top;
+  list-style-type: none;
+  padding: 0;
+}
+
+.litems {
+  margin-right: 10px;
+  padding: 10px;
+  border: 1px solid #ccc; 
+}
+
+.imagen {
+  width: 50px;
+  height: 50px;
+  margin-right: 5px;
+}
